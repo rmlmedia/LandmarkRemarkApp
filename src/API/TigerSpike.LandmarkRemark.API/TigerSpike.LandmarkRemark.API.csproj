@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TigerSpike.LandmarkRemark.Data\TigerSpike.LandmarkRemark.Data.csproj" />
+    <ProjectReference Include="..\TigerSpike.LandmarkRemark.Domain\TigerSpike.LandmarkRemark.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>

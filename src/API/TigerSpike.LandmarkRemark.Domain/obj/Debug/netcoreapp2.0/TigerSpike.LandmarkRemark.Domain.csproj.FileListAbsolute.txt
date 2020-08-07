@@ -1,0 +1,9 @@
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.Domain\bin\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.Domain.deps.json
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.Domain\bin\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.Domain.dll
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.Domain\bin\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.Domain.pdb
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.Domain\obj\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.Domain.AssemblyInfoInputs.cache
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.Domain\obj\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.Domain.AssemblyInfo.cs
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.Domain\obj\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.Domain.csproj.CoreCompileInputs.cache
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.Domain\obj\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.Domain.dll
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.Domain\obj\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.Domain.pdb
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.Domain\obj\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.Domain.csprojAssemblyReference.cache

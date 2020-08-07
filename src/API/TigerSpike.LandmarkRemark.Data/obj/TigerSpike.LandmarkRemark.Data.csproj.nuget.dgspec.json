@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\TigerSpike\\LandmarkRemark\\src\\API\\TigerSpike.LandmarkRemark.Data\\TigerSpike.LandmarkRemark.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\TigerSpike\\LandmarkRemark\\src\\API\\TigerSpike.LandmarkRemark.Data\\TigerSpike.LandmarkRemark.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\TigerSpike\\LandmarkRemark\\src\\API\\TigerSpike.LandmarkRemark.Data\\TigerSpike.LandmarkRemark.Data.csproj",
+        "projectName": "TigerSpike.LandmarkRemark.Data",
+        "projectPath": "C:\\dev\\TigerSpike\\LandmarkRemark\\src\\API\\TigerSpike.LandmarkRemark.Data\\TigerSpike.LandmarkRemark.Data.csproj",
+        "packagesPath": "C:\\Users\\rick.lannan\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\TigerSpike\\LandmarkRemark\\src\\API\\TigerSpike.LandmarkRemark.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rick.lannan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\dev\\TigerSpike\\LandmarkRemark\\src\\API\\TigerSpike.LandmarkRemark.Domain\\TigerSpike.LandmarkRemark.Domain.csproj": {
+                "projectPath": "C:\\dev\\TigerSpike\\LandmarkRemark\\src\\API\\TigerSpike.LandmarkRemark.Domain\\TigerSpike.LandmarkRemark.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\TigerSpike\\LandmarkRemark\\src\\API\\TigerSpike.LandmarkRemark.Domain\\TigerSpike.LandmarkRemark.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\TigerSpike\\LandmarkRemark\\src\\API\\TigerSpike.LandmarkRemark.Domain\\TigerSpike.LandmarkRemark.Domain.csproj",
+        "projectName": "TigerSpike.LandmarkRemark.Domain",
+        "projectPath": "C:\\dev\\TigerSpike\\LandmarkRemark\\src\\API\\TigerSpike.LandmarkRemark.Domain\\TigerSpike.LandmarkRemark.Domain.csproj",
+        "packagesPath": "C:\\Users\\rick.lannan\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\TigerSpike\\LandmarkRemark\\src\\API\\TigerSpike.LandmarkRemark.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rick.lannan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

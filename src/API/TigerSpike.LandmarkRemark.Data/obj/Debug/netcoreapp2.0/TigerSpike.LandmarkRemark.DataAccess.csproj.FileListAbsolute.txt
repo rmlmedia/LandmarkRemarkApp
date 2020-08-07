@@ -1,0 +1,5 @@
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.DataAccess\bin\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.Domain.dll
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.DataAccess\obj\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.DataAccess.csprojResolveAssemblyReference.cache
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.DataAccess\obj\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.DataAccess.AssemblyInfoInputs.cache
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.DataAccess\obj\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.DataAccess.AssemblyInfo.cs
+C:\dev\TigerSpike\TigerSpike.LandmarkRemark.DataAccess\obj\Debug\netcoreapp2.0\TigerSpike.LandmarkRemark.DataAccess.csproj.CoreCompileInputs.cache

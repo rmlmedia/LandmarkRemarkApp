@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iE35V0EuR9W+T3xWAg5odY9BcJn+Du7IxLXF2sC99qJVWzMczYFieOi693n/P6E2AUAvn22+ewztBE+RoVqJmQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\TigerSpike\\LandmarkRemark\\src\\API\\TigerSpike.LandmarkRemark.Domain\\TigerSpike.LandmarkRemark.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rick.lannan\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\rick.lannan\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\rick.lannan\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\rick.lannan\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\rick.lannan\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\rick.lannan\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
