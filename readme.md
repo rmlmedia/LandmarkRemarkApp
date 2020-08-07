@@ -12,7 +12,7 @@ Thanks for taking the time to review this project as part of the application pro
  - Add a firewall rule to allow LAN traffic to access IISExpress
  - Install the Expo app on your device
  - At the command line, run `npm install` in the `src\App` folder
- - At the command line, run `npm run web` in the `src\App` folder. Two sites will launch, the first is the Expo UI, the second is the web version of the Expo project. Close the web version as that fails given the Maps component used is not a web version. What you want is to scan the QR Code in the Expo UI using the Expo app on your phone - this will launch the app on your device without cables needed. Please note, I have not tested on an iOS device as I don't own one or a Mac for emulation
+ - At the command line, run `npm run web` in the `src\App` folder. Two sites will launch, the first is the Expo UI, the second is the web version of the Expo project. Close the web version as that fails given the Maps component used is not a web version (can be made to work but I didn't focus on that). What you want is to scan the QR Code in the Expo UI using the Expo app on your phone - this will launch the app on your device without cables needed. Please note, I have not tested on an iOS device as I don't own one or a Mac for emulation
  
 ## Time Spent
 
@@ -25,7 +25,9 @@ This is definitely the longest I've spent on a tech test as I spent roughly 14 h
  - Documentation & Handover - 1 hr
  
 ## Notes
+- If I had more time I would break down the React Native app into modular components. I didn't do this as this would have added the requirement of adding state management to the project
 - There is no user management as I was time constrained. A set of users is pre-loaded into the database instead
-- The UI is very basic. In particular, the user selector is very rudimentary as you can only cycle through users already in the database (didn't want to invest too long on this as it wasn't a core requirement)
+- The UI is very basic. There is no spalsh screen or loaders when the pins are being loaded. Also, the user selector is very rudimentary as you can only cycle through users already in the database (didn't want to invest too long on this as it wasn't a core requirement)
 - I have not tested on an iOS device as I don't own one or a Mac for emulation
+- There isn't any rendering tests in the React Native project. I would have added this if there was more time
  
