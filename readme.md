@@ -10,9 +10,9 @@ Thanks for taking the time to review this project as part of the application pro
  - Get your local IP address from the command line and change all references to `192.168.0.150` in `src\API\TigerSpike.LandmarkRemark.API\Properties\launchSettings.json` to be your IP. Make the same change in `src\App\services\api.ts`
  - Start the API in IISExpress by clicking Play for the `TigerSpike.LandmarkRemark.API` profile. Leave the launched browser window open to keep IISExpress running
  - Add a firewall rule to allow LAN traffic to access IISExpress
- - Install the Expo app on your device
+ - Install the Expo app on your device and connect it to the same WiFi network as your computer
  - At the command line, run `npm install` in the `src\App` folder
- - At the command line, run `npm run web` in the `src\App` folder. Two sites will launch, the first is the Expo UI, the second is the web version of the Expo project. Close the web version as that fails given the Maps component used is not a web version (can be made to work but I didn't focus on that). What you want is to scan the QR Code in the Expo UI using the Expo app on your phone - this will launch the app on your device without cables needed. Please note, I have not tested on an iOS device as I don't own one or a Mac for emulation
+ - At the command line, run `npm start` in the `src\App` folder. This will run the Metro Bundler as well as launch the Expo UI in the browser. Once the bundler completes, a QR code will appear both in the UI and at the command line. Scan the QR Code in the Expo UI using the Expo app on your phone - this will launch the app on your device without cables needed. Please note, I have not tested on an iOS device as I don't own one or a Mac for emulation
  
 ## Time Spent
 
